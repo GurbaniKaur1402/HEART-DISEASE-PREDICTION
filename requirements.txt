@@ -1,7 +1,7 @@
 pip==23.2.1
 streamlit
 pandas
-pip install scikit-learn==1.2.2 
+scikit-learn==1.2.2 
 joblib
 streamlit_option_menu
 
