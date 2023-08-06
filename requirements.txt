@@ -1,7 +1,7 @@
 pip==23.2.1
 streamlit
 pandas
-scikit-learn joblib
+scikit-learn 
 joblib
 streamlit_option_menu
 
